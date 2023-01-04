@@ -10,8 +10,13 @@ Pequeno projeto com a intenção de conhecer um pouco a linguagem SQL
 * *MySQL Workbench.*
 
 #### Conceitos Aplicados. 
-* *..*
-* *..*
+* *Criação do Banco de Dados.*
+* *Criação de Tabelas.*
+* * *Tipos de dados*
+* * *Conceito de Chave Primária.*
+* * *Conceito de Chave Estrangeira.*
+* * *Conceito de Chave Única.*
+* * *Relações entre Tabelas.*
 * *..*
 * *..*
 * *..*
