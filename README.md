@@ -11,8 +11,10 @@ Pequeno projeto com a intenção de conhecer um pouco a linguagem SQL
 
 ### Conceitos Aplicados. 
 * **Criação do Banco de Dados.**
+* * *Create Schema*
 
 * **Criação de Tabelas.**
+* * *Create Table*
 * * *Tipos de dados*
 * * *Conceito de Chave Primária.*
 * * *Conceito de Chave Estrangeira.*
@@ -26,9 +28,11 @@ Pequeno projeto com a intenção de conhecer um pouco a linguagem SQL
 * * *AUTO_INCREMENT.* 
 
 * **Inserir Dados nas tabelas.**
+* * *Insert Into*
 * * *Com Select.*
 
 * **Consultar Tabelas.**
+* * *Select * from.*
 * * *Where.*
 * * *Oder By.*
 * * *ASC/DESC*
@@ -39,5 +43,7 @@ Pequeno projeto com a intenção de conhecer um pouco a linguagem SQL
 * * *Update.*
 
 * **Deletar Dados/Tabela**
+* * *Drop (Database/Table)*
 
-* **Apagar Dados TRUNCATE**
+* **Apagar Dados**
+* * *Truncate Table*
