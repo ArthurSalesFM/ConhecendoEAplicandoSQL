@@ -41,6 +41,8 @@ Pequeno projeto com a intenção de conhecer um pouco a linguagem SQL
 
 * **Atualizar Tabelas.**
 * * *Update.*
+* * *Set.*
+* * *Where.*
 
 * **Deletar Dados/Tabela**
 * * *Drop (Database/Table)*
