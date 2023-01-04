@@ -18,5 +18,6 @@ Pequeno projeto com a intenção de conhecer um pouco a linguagem SQL
 * * *Conceito de Chave Única.*
 * * *Relações entre Tabelas.*
 * * * 1 p/ M.
-* *..*
-* *..*
+* * * 1 p/ M / M p/ 1.
+* * * M para M.
+* * *Not Null.*
