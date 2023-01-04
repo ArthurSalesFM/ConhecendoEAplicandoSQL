@@ -6,7 +6,7 @@ Pequeno projeto com a intenção de conhecer um pouco a linguagem SQL
 ## Linguagem utilizada.
 * *SQL.*
 
-### Desenvolvido  na IDE
+### Desenvolvido  Com a Ferramenta.
 * *MySQL Workbench.*
 
 ### Conceitos Aplicados. 
