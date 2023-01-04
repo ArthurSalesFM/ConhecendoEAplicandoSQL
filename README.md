@@ -35,3 +35,9 @@ Pequeno projeto com a intenção de conhecer um pouco a linguagem SQL
 * * *Group By*
 * * *Joins*
 
+* **Atualizar Tabelas.**
+* * *Update.*
+
+* **Deletar Dados/Tabela**
+
+* **Apagar Dados TRUNCATE**
